@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 
 public class StringUtil {
 	
-	
+	//editting method
 	public static String applySHA256(String input) {
 		
 		
